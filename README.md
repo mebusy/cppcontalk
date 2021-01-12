@@ -4,5 +4,7 @@
 
 [CppCon 2019: RAII and the Rule of Zero](https://nbviewer.jupyter.org/github/mebusy/cppcontalk/blob/main/pdfs/back_to_basics_raii_and_the_rule_of_zero__arthur_odwyer__cppcon_2019.pdf)
 
+[CppCon 2019: Smart Pointers](https://nbviewer.jupyter.org/github/mebusy/cppcontalk/blob/main/pdfs/back_to_basics_smart_pointers__arthur_odwyer__cppcon_2019.pdf)
+
 
 
